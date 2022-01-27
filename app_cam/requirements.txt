@@ -11,6 +11,8 @@ typing-extensions == 3.10.0.2
 av == 8.1.0
 streamlit-webrtc == 0.34.2
 
+ffmpeg-python == 0.2.0
+
 
 
 
