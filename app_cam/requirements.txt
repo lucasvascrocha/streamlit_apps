@@ -1,20 +1,14 @@
 pandas==1.0.4
 streamlit==0.87.0
-pymongo==3.11.3
-plotly==4.4.1
-pip == 20.2.4
 numpy == 1.19.2
-pystan == 2.19.1.1
-pydata-google-auth == 1.2.0
-xlrd == 1.2.0
-html5lib == 1.1
-htmlmin  == 0.1.12
+
 opencv-python == 4.5.4.58              
 opencv-python-headless == 4.5.5.62    
-
-
-
-
+pafy == 0.5.5
+m3u8  == 1.0.0
+typing-extensions == 3.10.0.2
+av == 8.1.0
+streamlit-webrtc == 0.34.2
 
 
 
