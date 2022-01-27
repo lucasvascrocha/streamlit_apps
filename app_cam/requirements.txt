@@ -2,8 +2,7 @@ pandas==1.0.4
 streamlit==0.87.0
 numpy == 1.19.2
 pip == 21.3.1
-
-opencv-python == 4.5.4.58              
+         
 opencv-python-headless == 4.5.5.62    
 pafy == 0.5.5
 m3u8  == 1.0.0
