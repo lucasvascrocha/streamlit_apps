@@ -34,7 +34,7 @@ def main():
     #style.set_background('images/bg03.jpg')
     
     #image = Image.open('images/logo_sidebar_sem_fundo.png')
-    st.sidebar.image(image, use_column_width=True)
+    #st.sidebar.image(image, use_column_width=True)
     st.sidebar.write('https://www.bixtecnologia.com/')
     
     style.spaces_sidebar(5)
