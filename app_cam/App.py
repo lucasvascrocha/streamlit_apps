@@ -31,7 +31,7 @@ from streamlit_webrtc import VideoTransformerBase, webrtc_streamer
 # ----------------------------------SIDEBAR -------------------------------------------------------------
 def main():
 
-    style.set_background('images/bg03.jpg')
+    #style.set_background('images/bg03.jpg')
     
     image = Image.open('images/logo_sidebar_sem_fundo.png')
     st.sidebar.image(image, use_column_width=True)
