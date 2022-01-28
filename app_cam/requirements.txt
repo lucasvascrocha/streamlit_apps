@@ -3,7 +3,8 @@ streamlit==0.87.0
 numpy == 1.19.2
 pip == 21.3.1
          
-opencv-python-headless == 4.5.5.62    
+Pillow
+opencv-python-headless==4.5.4.60   
 pafy == 0.5.5
 m3u8  == 1.0.0
 typing-extensions == 3.10.0.2
@@ -11,7 +12,7 @@ av == 8.1.0
 streamlit-webrtc == 0.34.2
 
 ffmpeg-python == 0.2.0
-pillow  == 8.4.0
+
 
 
 
