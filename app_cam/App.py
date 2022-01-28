@@ -33,7 +33,7 @@ def main():
 
     #style.set_background('images/bg03.jpg')
     
-    image = Image.open('images/logo_sidebar_sem_fundo.png')
+    #image = Image.open('images/logo_sidebar_sem_fundo.png')
     st.sidebar.image(image, use_column_width=True)
     st.sidebar.write('https://www.bixtecnologia.com/')
     
