@@ -7,7 +7,7 @@ from PIL import Image
 import cv2
 import pafy  # needs youtube_dl
 import m3u8
-from pytube import YouTube
+#from pytube import YouTube
 
 import warnings
 warnings.filterwarnings('ignore')
