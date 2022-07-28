@@ -54,6 +54,7 @@ def main():
 
         #if st.button("print"):
         class VideoTransformer(VideoTransformerBase):
+            
             frame_lock: threading.Lock  # `transform()` is running in another thread, then a lock object is used here for thread-safety.
             in_image: Union[np.ndarray, None]
             out_image: Union[np.ndarray, None]
