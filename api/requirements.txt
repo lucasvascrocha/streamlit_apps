@@ -3,7 +3,7 @@ click==6.7
 Flask==0.12.2
 itsdangerous==0.24
 Jinja2==2.10
-MarkupSafe==1.0
+MarkupSafe==2.1.1
 Werkzeug==0.14.1
 yahooquery==2.2.15
 json5==0.9.6
